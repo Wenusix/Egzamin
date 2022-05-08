@@ -1,0 +1,9 @@
+26a01a015364a0674742562ced2f4f2c8b2ac859 Merge pull request #2 from Wenusix/wikipedia
+13b0aa133c9a8ae864d2924c62893a30b023917f Wikipedia Day Events
+eea4fd6e28affe3fcba21f2dd6e6af6e7887be60 Wikipedia Day
+2d31b0c1bf8cfd54796d745bff9373ae321efe95 Merge pull request #1 from Wenusix/interlingwa
+9780ba402edc161a369b27ffcc85ccac24660afd Fundamenty fenomenu interlingwy
+a4a2663a988853db6cb6fb035ef2b818b7084c43 Opis dnia interlingwy
+0ed7583ce5d814d0b6364304b0fcc8ccad78ce94 Dzień interlingwy
+efc0eca6d467fffb514f422d4be4b94f789aa131 Inicjacja plików domyślnych
+daca6203787b92bb35bfc6a3c6849d5539c3a505 Initial commit
